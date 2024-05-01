@@ -1,4 +1,4 @@
-image: yandex/clickhouse-server:latest
+image: clickhouse/clickhouse-server:latest
 replicas: 1
 persistence:
   enabled: true
